@@ -1,0 +1,17 @@
+horizon,model,mae,rmse,phase_accuracy
+1,Persistence,0.171,0.205,0.87
+1,Training mean,0.677,0.851,0.449
+1,Linear regression,0.078,0.097,0.96
+1,Random forest,0.123,0.156,0.919
+2,Persistence,0.327,0.396,0.748
+2,Training mean,0.676,0.851,0.451
+2,Linear regression,0.187,0.23,0.854
+2,Random forest,0.23,0.287,0.837
+3,Persistence,0.466,0.567,0.637
+3,Training mean,0.676,0.851,0.453
+3,Linear regression,0.309,0.384,0.751
+3,Random forest,0.337,0.418,0.718
+6,Persistence,0.764,0.952,0.471
+6,Training mean,0.681,0.856,0.446
+6,Linear regression,0.563,0.701,0.533
+6,Random forest,0.564,0.717,0.512
